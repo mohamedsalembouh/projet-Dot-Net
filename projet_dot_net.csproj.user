@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Med Salem\source\repos\projet_dot_net\Properties\PublishProfiles\FolderProfile1.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="achats.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="echangeMed.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fabriquant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Facture.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="homePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="stock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

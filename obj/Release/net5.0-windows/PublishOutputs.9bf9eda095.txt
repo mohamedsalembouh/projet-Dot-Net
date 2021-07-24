@@ -1,0 +1,11 @@
+C:\Users\Med Salem\Desktop\projet net\projet_dot_net.exe
+C:\Users\Med Salem\Desktop\projet net\projet_dot_net.dll
+C:\Users\Med Salem\Desktop\projet net\projet_dot_net.deps.json
+C:\Users\Med Salem\Desktop\projet net\projet_dot_net.runtimeconfig.json
+C:\Users\Med Salem\Desktop\projet net\projet_dot_net.pdb
+C:\Users\Med Salem\Desktop\projet net\System.Data.SqlClient.dll
+C:\Users\Med Salem\Desktop\projet net\runtimes\win-arm64\native\sni.dll
+C:\Users\Med Salem\Desktop\projet net\runtimes\win-x64\native\sni.dll
+C:\Users\Med Salem\Desktop\projet net\runtimes\win-x86\native\sni.dll
+C:\Users\Med Salem\Desktop\projet net\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Med Salem\Desktop\projet net\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
